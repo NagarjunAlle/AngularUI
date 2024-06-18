@@ -1,0 +1,7 @@
+/* Add this in your global styles or dashboard.component.css */
+
+.navbar-nav .nav-link.active {
+    font-weight: bold; /* Example: Bold font for active link */
+    color: #ffc107; /* Example: Yellow color for active link */
+  }
+  
